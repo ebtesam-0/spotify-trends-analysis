@@ -1,5 +1,10 @@
 # Spotify Trends Analysis 🎧
 
+
+![Popularity Distribution](images/song_popularity_distribution.png)
+![Energy vs Danceability](images/energy_vs_danceability.png)
+![Correlation Matrix](images/correlation_matrix.png)
+
 ## 📊 Overview
 This project analyzes Spotify music data to explore trends in track popularity and audio features.
 
